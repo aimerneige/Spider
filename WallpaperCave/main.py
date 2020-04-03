@@ -4,7 +4,6 @@
 
 import requests
 import re
-import os
 
 def search(keyword:'str') -> 'list':
     """
