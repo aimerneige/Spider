@@ -2,9 +2,9 @@
 
 Python Spider
 
-- DuiTang
-- WallpaperCave
-- ciyuanjie__pixiv
+- [DuiTang](https://www.duitang.com/)
+- [WallpaperCave](https://wallpapercave.com/)
+- [ciyuanjie/pixiv](https://www.ciyuanjie.cn/tag/pixiv)
 
 ---
 
@@ -13,9 +13,9 @@ Python Spider
 - 系统： Ubuntu 19.10
 - 软件： VSCode
 
-相关代码可以使用 python3 在 Linux 平台下直接使用，如在 Windows 平台上使用，可能需要修改部分代码。
+相关代码可以使用 python3 在 Linux 平台下直接使用，如需在 Windows 平台上使用，**可能**需要修改部分代码。
 
-部分爬虫只提供了接口，并不能直接使用。
+部分爬虫**只提供了接口**，并不能直接使用。
 
 ---
 

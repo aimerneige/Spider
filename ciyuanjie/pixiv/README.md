@@ -1,4 +1,4 @@
-# ciyuanjie__pixiv
+# ciyuanjie/pixiv
 
 最后测试时间：2020年2月28日
 
