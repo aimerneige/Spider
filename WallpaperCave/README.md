@@ -10,7 +10,9 @@
 
 ---
 
-某使用示例
+只提供了接口，不能直接使用
+
+某接口使用示例
 
 ```python
 search_result = search("ddlc")
@@ -22,3 +24,7 @@ for sr in search_result:
     with open("link.txt", 'a') as f:
         f.write(all_download_link)
 ```
+
+结果：
+
+获得下载链接组成的txt文件，然后可以使用多线程下载工具（如uget）进行下载。
