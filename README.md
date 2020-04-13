@@ -34,6 +34,6 @@ Python Spider
 
 如果本项目部分内容侵犯了您的**合法**权益，请联系我，我会在收到消息后的24小时之内删除相关内容。
 
-Email:  aimer.neige.soft@gmain.com
+Email:  aimer.neige.soft@gmail.com
 
 Telegram: https://t.me/AimerNeige
